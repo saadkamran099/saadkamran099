@@ -5,6 +5,7 @@
 - 📫 How to reach me ...skqureshi099@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- got to go
 
 <!---
 saadkamran099/saadkamran099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
